@@ -1,3 +1,17 @@
+# v1.15.3 (Wed Aug 07 2024)
+
+#### ⚠️ Pushed to `master`
+
+- MOD: minor lint fixes ([@williams-bobsled](https://github.com/williams-bobsled))
+- MOD: removed build comand ([@williams-bobsled](https://github.com/williams-bobsled))
+- fixed package ([@williams-bobsled](https://github.com/williams-bobsled))
+
+#### Authors: 1
+
+- Williams ([@williams-bobsled](https://github.com/williams-bobsled))
+
+---
+
 # v1.15.2 (Wed Aug 07 2024)
 
 #### 🐛 Bug Fix
