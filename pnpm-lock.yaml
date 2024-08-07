@@ -8,15 +8,9 @@ importers:
 
   .:
     dependencies:
-      '@auto-it/npm':
-        specifier: ^11.2.0
-        version: 11.2.0(@types/node@22.1.0)(typescript@5.5.4)
       asn1:
         specifier: ^0.2.6
         version: 0.2.6
-      auto:
-        specifier: ^11.2.0
-        version: 11.2.0(@types/node@22.1.0)(typescript@5.5.4)
       bcrypt-pbkdf:
         specifier: ^1.0.2
         version: 1.0.2
@@ -28,9 +22,15 @@ importers:
         specifier: ^2.20.0
         version: 2.20.0
     devDependencies:
+      '@auto-it/npm':
+        specifier: ^11.2.0
+        version: 11.2.0(@types/node@22.1.0)(typescript@5.5.4)
       '@mscdex/eslint-config':
         specifier: ^1.1.0
         version: 1.1.0(eslint@7.32.0)
+      auto:
+        specifier: ^11.2.0
+        version: 11.2.0(@types/node@22.1.0)(typescript@5.5.4)
       eslint:
         specifier: ^7.32.0
         version: 7.32.0
