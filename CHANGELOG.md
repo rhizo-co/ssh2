@@ -1,3 +1,18 @@
+# v1.15.5 (Wed Aug 07 2024)
+
+#### ⚠️ Pushed to `master`
+
+- ADD: Added back ignore ([@williams-bobsled](https://github.com/williams-bobsled))
+- MOD: removed crypto ([@williams-bobsled](https://github.com/williams-bobsled))
+- MOD: ignored back vrypto ([@williams-bobsled](https://github.com/williams-bobsled))
+- ADD: Added crypto build to package ([@williams-bobsled](https://github.com/williams-bobsled))
+
+#### Authors: 1
+
+- Williams ([@williams-bobsled](https://github.com/williams-bobsled))
+
+---
+
 # v1.15.3 (Wed Aug 07 2024)
 
 #### ⚠️ Pushed to `master`
