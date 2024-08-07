@@ -25,9 +25,10 @@ jobs:
         run: git fetch --unshallow --tags
 
       - name: Use Node.js 18.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.x
+          node-version: '18.19.0'
+          cache: 'pnpm'
 
       - name: Cache node modules
         uses: actions/cache@v4
