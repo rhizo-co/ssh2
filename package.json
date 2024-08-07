@@ -1,7 +1,6 @@
 {
-  "name": "ssh2",
+  "name": "@bobsled/ssh2",
   "version": "1.15.1",
-  "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -14,7 +13,9 @@
   },
   "devDependencies": {
     "@mscdex/eslint-config": "^1.1.0",
-    "eslint": "^7.32.0"
+    "eslint": "^7.32.0",
+    "@auto-it/npm": "^11.2.0",
+    "auto": "^11.2.0"
   },
   "optionalDependencies": {
     "cpu-features": "~0.0.10",
@@ -40,11 +41,21 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/mscdex/ssh2/raw/master/LICENSE"
+      "url": "https://github.com/rhizo-co/ssh2/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/ssh2.git"
+    "url": "https://github.com/rhizo-co/ssh2.git"
+  },
+  "author": "Williams Aguilera <williams@bobsled.co>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "auto": {
+    "plugins": [
+      "npm"
+    ]
   }
 }
