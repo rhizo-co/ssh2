@@ -1388,6 +1388,8 @@ export interface TransferOptions {
     customFs?: CustomFS;
     step?: (total: number, nb: number, fsize: number) => void;
     mode?: number | string;
+    offset?: number;
+    length?: number;
 }
 
 export interface ReadFileOptions {
