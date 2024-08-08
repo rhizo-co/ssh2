@@ -1,3 +1,15 @@
+# v1.15.6 (Thu Aug 08 2024)
+
+#### ⚠️ Pushed to `master`
+
+- FIX: fixed issue with multipart ([@williams-bobsled](https://github.com/williams-bobsled))
+
+#### Authors: 1
+
+- Williams ([@williams-bobsled](https://github.com/williams-bobsled))
+
+---
+
 # v1.15.5 (Wed Aug 07 2024)
 
 #### ⚠️ Pushed to `master`
