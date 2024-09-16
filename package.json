@@ -1,6 +1,6 @@
 {
   "name": "@bobsled/ssh2",
-  "version": "1.15.6",
+  "version": "1.16.0",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
