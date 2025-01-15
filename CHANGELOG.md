@@ -1,3 +1,20 @@
+# v1.15.7 (Wed Jan 15 2025)
+
+#### ⚠️ Pushed to `master`
+
+- package: bump version to v1.16.0 ([@mscdex](https://github.com/mscdex))
+- readme: fix Github markdown rendering ([@mscdex](https://github.com/mscdex))
+- readme: update hostVerifier documentation ([@mscdex](https://github.com/mscdex))
+- keyParser: fix equals() ([@mscdex](https://github.com/mscdex))
+- client: fix implicit key hashing during rekey (ishan37371@gmail.com)
+
+#### Authors: 2
+
+- Ishan (ishan37371@gmail.com)
+- mscdex ([@mscdex](https://github.com/mscdex))
+
+---
+
 # v1.15.6 (Thu Aug 08 2024)
 
 #### ⚠️ Pushed to `master`
