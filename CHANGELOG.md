@@ -1,3 +1,16 @@
+# v1.16.3 (Wed Jan 22 2025)
+
+#### ⚠️ Pushed to `master`
+
+- Merge remote-tracking branch 'origin/master' ([@J4cku](https://github.com/J4cku))
+- Update maxReadLen ([@J4cku](https://github.com/J4cku))
+
+#### Authors: 1
+
+- Jacek Leszczyński ([@J4cku](https://github.com/J4cku))
+
+---
+
 # v1.16.2 (Wed Jan 22 2025)
 
 #### ⚠️ Pushed to `master`
