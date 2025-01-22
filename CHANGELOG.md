@@ -1,3 +1,15 @@
+# v1.16.2 (Wed Jan 22 2025)
+
+#### ⚠️ Pushed to `master`
+
+- Update maxReadLen ([@J4cku](https://github.com/J4cku))
+
+#### Authors: 1
+
+- Jacek Leszczyński ([@J4cku](https://github.com/J4cku))
+
+---
+
 # v1.15.7 (Wed Jan 15 2025)
 
 #### ⚠️ Pushed to `master`
